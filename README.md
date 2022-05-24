@@ -1,4 +1,4 @@
-# Detonate's GitHub
+# Deetonate's GitHub
 ### 👋 Who am I?
 My name is Jon (a.k.a deetonate in reference to a hilarious meme) and I currently reside in Wales, the United Kingdom.
 I'm 15 years old and am teaching myself about a variety of computing and engineering topics.
