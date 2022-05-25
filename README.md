@@ -9,7 +9,7 @@ I'm 15 years old and am teaching myself about a variety of computing and enginee
   * OOP (Object-oriented programming)
   * Basic HTML & CSS
   * GCSE-level mathematics (A* pass) (see [WJEC GCSE curriculum](https://www.wjec.co.uk/qualifications/mathematics-gcse/#tab_overview))
-  * Some networking fundamentals although trying to develop them
+  * Some networking skills but learning networking is on hold
   * Reverse engineering
   * 2 years of experience making mods for games, a [project](https://github.com/plumbwicked/PtrPtr-Base) I made
 ###   Developing skills
